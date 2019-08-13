@@ -11,9 +11,9 @@
 
      * Date of the Event
 
-    ![concert-no-search](images/concert-no-search.png)
+    ![concert-no-search](/images/concert-no-search.png)
 
-    ![concert-search](images/concert-search.png)
+    ![concert-search](/images/concert-search.png)
    
 * spotify-this-song
 
@@ -26,9 +26,9 @@
 
      * The album that the song is from
 
-     ![spotify-no-search](images/spotify-no-search.png)
+     ![spotify-no-search](/images/spotify-no-search.png)
 
-     ![spotify-search](images/spotify-search.png)
+     ![spotify-search](/images/spotify-search.png)
 
 * movie-this
 
@@ -42,13 +42,13 @@
        * Plot of the movie.
        * Actors in the movie.
 
-    ![movie-no-search](images/movie-no-search.png)
+    ![movie-no-search](/images/movie-no-search.png)
        
-    ![movie-search](images/movie-search.png)
+    ![movie-search](/images/movie-search.png)
 
 * do-what-it-says
 
     * __Provides the following:__
     * It should run `spotify-this-song` for "I Want it That Way," as follows the text in `random.txt`.
 
-    ![doWhatItSays](images/doWhatItSays.png)
+    ![doWhatItSays](/images/doWhatItSays.png)
